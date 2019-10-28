@@ -1,0 +1,172 @@
+#EXTM3U
+ 
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="INFORMAÇÃO", clica aqui se escrever no canal
+https://www.youtube.com/channel/UCsY8N8Dxr-F5EmuJThz34XA
+ 
+
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/zEAoER" group-title="lista atualizada 25/09/19", leo
+https://www.youtube.com/watch?v=oHS6-G3vycU
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/zEAoER" group-title="teste servidor DELTA", 6.500 canais
+https://www.youtube.com/watch?v=t221pTwxKrI
+
+#EXTINF:-1 tvg-logo="https://goo.gl/zEAoER" group-title="teste servidor ONTV", 9.500 canais
+https://www.youtube.com/watch?v=t221pTwxKrI
+
+#EXTINF:-1 tvg-logo="https://goo.gl/zEAoER" group-title="teste servidor IMAGINATION", 20.000 canais
+https://www.youtube.com/watch?v=t221pTwxKrI
+
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/zEAoER" group-title="CONTATO SOMENTE COMPRAS", (21)99430-9515
+https://chat.whatsapp.com/6AQSz4MeLGGLNPCNhtmOnG
+
+
+
+
+
+===============================================================================================================
+#EXTINF:-1 tvg-logo="" group-title="FILMES",AMC HD
+http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Animal Planet HD
+http://playback.imirun.net:8080//AnimalPlanet-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Arte 1
+http://hvod.imirun.net:8080/Arte1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE",BAND Sports HD
+http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",BAND News HD
+http://hvod.imirun.net:8080/Band-News-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",BIS
+http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Cinemax HD
+http://playback.imirun.net:8080//Cinemax-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Comedy Central
+http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Discovery Civilization HD
+http://playback.imirun.net:8080//DiscoveryCivilization-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Discovery Channel
+http://playback.imirun.net:8080//DiscoveryChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Discovery Channel HD
+http://playback.imirun.net:8080//DisneyChannelHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Discovery Science HD
+http://playback.imirun.net:8080//DiscoveryScienceHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Discovery Theater HD
+http://playback.imirun.net:8080//DiscoveryTheater-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Discovery Turbo HD
+http://playback.imirun.net:8080//DiscoveryTurbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Discovery World HD
+http://playback.imirun.net:8080//DiscoveryWorldHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",E! HD
+http://playback.imirun.net:8080//E!HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE",ESPN+
+#EXTINF:-1,group-title"ESPORTES",Combate
+http://playback.imirun.net:8080/Combate/tracks-v1a1/mono.m3u8
+http://hvod.imirun.net:8080/ESPN+/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE",ESPN
+http://hvod.imirun.net:8080/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",FOOD HD
+http://playback.imirun.net:8080//FoodNetworkHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",LifeTime HD
+http://playback.imirun.net:8080/Lifetime-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",FOX Premium 1 HD
+http://hvod.imirun.net:8080/Fox-Premium-1-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",FOX Premium 2 HD
+http://hvod.imirun.net:8080/Fox-Premium-2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",FOX HD
+http://hvod.imirun.net:8080/FOX-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",FX HD
+http://hvod.imirun.net:8080/FX-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE",FOX Sports 2 HD
+http://hvod.imirun.net:8080/Fox-Sports-2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",FOX HD
+http://hvod.imirun.net:8080/FOX-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",Globo News HD
+http://playback.imirun.net:8080/Globo-News-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="INFANTIL",Gloob HD
+http://hvod.imirun.net:8080/Gloob-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",GNT HD
+http://playback.imirun.net:8080//GNT-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",H2 HD
+http://playback.imirun.net:8080//H2-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",History Channel HD
+http://playback.imirun.net:8080//HistoryChannel_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",HBO2
+http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",HBO HD
+http://hvod.imirun.net:8080/HBO-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",HBO Family HD
+http://playback.imirun.net:8080//HBO-Family-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS", Discovery Investigation HD
+http://playback.imirun.net:8080//InvestigacaoDiscoveryHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",LifeTime HD
+http://playback.imirun.net:8080//Lifetime-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",MAX UP HD
+http://playback.imirun.net:8080//MaxUpHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",MAX PRIME HD
+http://playback.imirun.net:8080//MaxPrime*eHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Megapix HD
+http://hvod.imirun.net:8080/MegapixHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS",Multishow
+http://hvod.imirun.net:8080/Multishow/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",National Geographic HD
+http://hvod.imirun.net:8080/National-Geographic-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",NatGeoWild HD
+http://playback.imirun.net:8080//NatGeoWild-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS",MTV HD
+http://playback.imirun.net:8080//MTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MÚSICAS",Multishow HD
+http://playback.imirun.net:8080//MultishowHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",OFF
+http://playback.imirun.net:8080//OFF/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",SyFy HD
+http://hvod.imirun.net:8080/SyFyHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ABERTO",SBT HD
+http://hvod.imirun.net:8080/SBTHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Studio Universal HD
+http://playback.imirun.net:8080//StudioUniversalHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Space HD
+http://hvod.imirun.net:8080/SpaceHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDAES",Sony HD
+http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Telecine Premium
+http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Studio Universal
+http://playback.imirun.net:8080//StudioUniversal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Telecine Touch
+http://playback.imirun.net:8080//TelecineTouch/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",TLC
+http://playback.imirun.net:8080//TLC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",TNT HD
+http://hvod.imirun.net:8080/TNT-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",TCM
+http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",TBS
+http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ABERTO",TV Gazeta
+http://playback.imirun.net:8080//TVGazeta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",TNT Séries
+http://playback.imirun.net:8080//TNTSeries/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",VIVA
+http://playback.imirun.net:8080//VIVA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",WooHoo
+http://playback.imirun.net:8080//Woohoo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Warner Channel
+http://hvod.imirun.net:8080/WarnerChannel/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ABERTO",CANAL DO BOI
+https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w890019358.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ABERTO",REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1014325294.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ABERTO",RECORD
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ABERTO",BAND
+https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",DISNEY JR HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,e684993f245c481f1f1bb14b273256e3;base64np;-uribHdW7Nh31Zw!/amlst:-uoadWod6dlolRBm/chunklist_b2690048.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",DISNEY XD 
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,7f7978dabb948939a8a5b1b171ef599c;base64np;cyzcx3V5SZ4JJwc!/amlst:cywk3mgyTJ8WZ4s4/chunklist_b1089536.m3u8
+#EXTINF:-1 tvg-logo="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2009/08/after.png" group-title="INFANTIL", Nickelodeon
+http://edge.aovivo.club/hls/s:155.138.227.45/nickelodeon_bc33ea4e_7c020117f44ea77e46aeb00b543950023fdbfa00/410p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-2.png" group-title="INFANTIL", Cartoon Network
